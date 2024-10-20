@@ -6,6 +6,7 @@
 build
 _build
 dist
+*.egg-info
 solvers/._glucose-syrup-4.1
 solvers/cadical103
 solvers/cadical153
